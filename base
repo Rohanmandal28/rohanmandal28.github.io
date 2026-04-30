@@ -1,0 +1,5 @@
+npx create-vite@latest portfolio
+cd portfolio
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
